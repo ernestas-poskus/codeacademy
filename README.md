@@ -1,4 +1,4 @@
-codeacademy
+CodeAcademy
 ===========
 
-Code Academy 
+http://www.codecademy.com/ernestas.poskus
